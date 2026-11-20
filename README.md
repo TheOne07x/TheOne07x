@@ -1,4 +1,4 @@
-### 👋 Hey, I'm Almas Qureshi
+###  Hey, I'm Almas Qureshi
 
 🔭 Building AI/ML pipelines, Retrieval-Augmented Generation (RAG) systems, and backend applications.
 
